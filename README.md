@@ -112,12 +112,6 @@ py fim.py
 
 ---
 
-## 📸 Output Screenshot
-
-![FIM Output](images/output.png)
-
----
-
 ## 🧠 How It Works
 
 1. Generates SHA-256 hash for each file
